@@ -11,5 +11,7 @@ public class HelloGit {
         System.out.println("master,test!");
         System.out.println("push,test");
          System.out.println("pull,test");
+
+        System.out.println("hot-fix,热修分支改变了代码");
     }
 }
